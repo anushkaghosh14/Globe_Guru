@@ -48,8 +48,8 @@ def contact_us_page():
     st.markdown("<hr>",unsafe_allow_html=True)
     st.write("""
     <div style="font-size: 25px;">
-    <b>Email:</b> <a href="mailto:abhirupbasu30@gmail.com">abhirupbasu30@gmail.com</a>
-    <b>Phone:</b> +91 8235026220
+    <b>Email:</b> <a href="mailto:anushkag1412@gmail.com">anushkag1412@gmail.com</a>
+    <b>Phone:</b> +91 9142404669
     </div>
     """,unsafe_allow_html=True)
     st.markdown("<hr>",unsafe_allow_html=True)
